@@ -9,3 +9,7 @@ This will be used to store information about Apps, including Configs, helpful st
 # Modules
 
 I will use this to create a page per Module that I use and list any useful web post or video that I use
+
+# AWX / AAP
+
+I will use this like all of the above to record any helpful guides for the AWX/AAP Platform
